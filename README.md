@@ -1,1 +1,3 @@
 # taskmanagerinPython
+This software is licensed by the MIT License or PSFL.
+Plus, this is created by oggtt.
